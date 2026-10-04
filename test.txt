@@ -1,4 +1,9 @@
 
+
+ödeme testleri yapıldı
+
+ödeme eklendi
+
 indirim kuponları
 
 
@@ -9,4 +14,5 @@ bilet rezervasyonu eklendi
 
 
 film süresi hatası eklendi
+
 
