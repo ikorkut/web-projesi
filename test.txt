@@ -1,1 +1,5 @@
+
 ödeme testleri yapıldı
+
+ödeme eklendi
+
