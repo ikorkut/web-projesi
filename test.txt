@@ -1,5 +1,8 @@
 
+
 rezervasyon testleri
 
 bilet rezervasyonu eklendi
 
+
+film süresi hatası eklendi
